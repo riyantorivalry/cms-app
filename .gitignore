@@ -8,6 +8,11 @@
 # testing
 /coverage
 
+# cms-backend
+/cms-backend/node_modules
+/cms-backend/uploads
+
+
 # production
 /build
 
